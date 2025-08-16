@@ -27,7 +27,7 @@ const signingKeys = {
 
 export const environment = {
   production: false,
-  site: 'spearhead',
+  site: 'site11',
   apiGatewaySettings: {
     // endpointUrl: 'https://localhost:44340',
     endpointUrl: "https://vertigo.druidcloud.dev/rollthecloudinc/spearhead-objects/shapeshifter"

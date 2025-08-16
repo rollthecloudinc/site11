@@ -26,7 +26,7 @@ const signingKeys = {
 
 export const environment = {
   production: true,
-  site: 'spearhead',
+  site: 'site11',
   apiGatewaySettings: {
     endpointUrl: 'https://edge.hedge.earth/emissionless/rollthecloudinc/spearhead-objects-prod/shapeshifter',
   },
